@@ -9,6 +9,8 @@ If you plan to use your build in webcam you don't have to change anything, other
 cap = cv2.VideoCapture(0)
 ```
 
+
+## Run ##
 Now simply run:
 
 ```python
